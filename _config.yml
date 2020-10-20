@@ -19,9 +19,9 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Seongsu Park"
+name                     : "호랑이"
 description              : "An amazing website."
-url                      : "https://seongs1024.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://gdfhkr.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -93,15 +93,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Seongsu Park"
+  name             : "호랑이"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am a good boy"
   location         : "Korea, Republic of"
-  email            : "seongs1024@gmail.com"
+  email            : "kimhog4444@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "seongs1024@gmail.com" # the 404 page appears when the email icon is clicked
+      # url: # the 404 page appears when the email icon is clicked
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/seongs1024"
+      url: "https://github.com/gdfhkr"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -129,7 +129,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/seongs1024"
+      url: "https://github.com/gdfhkr"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
